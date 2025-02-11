@@ -1,9 +1,7 @@
-import React from "react";
+
 import Testi from "../assets/Testi.png";
 import { IoStar } from "react-icons/io5";
 import Star from "../assets/Star.png";
-
-import Star2 from "../assets/Star2.png";
 
 const Testimonials = () => {
   return (

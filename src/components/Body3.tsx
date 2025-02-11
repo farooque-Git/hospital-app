@@ -1,4 +1,4 @@
-import React from "react";
+
 import grid4 from "../assets/grid4.png";
 
 import grid3 from "../assets/grid3.png";

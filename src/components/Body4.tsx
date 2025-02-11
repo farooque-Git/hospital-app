@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaArrowCircleRight } from "react-icons/fa";
 import Card1 from "../assets/Card1.png";
 import Card2 from "../assets/Card2.png";

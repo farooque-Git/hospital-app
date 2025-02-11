@@ -1,4 +1,4 @@
-import React from "react";
+
 import Family from "../assets/Family.png";
 import { FaArrowCircleRight } from "react-icons/fa";
 

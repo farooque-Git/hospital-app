@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { LuSmartphone } from "react-icons/lu";
 import footer from "../assets/Footer.png";
 import { CiMail } from "react-icons/ci";
