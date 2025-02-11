@@ -11,12 +11,12 @@ const Navbar = () => {
       <div className="flex flex-row lg:gap-8 gap-2 items-center">
         <div className="text-white flex flex-row items-center gap-2">
           <IoMail className="text-2xl" />
-          <p className="lg:text-base text-xs">info@jecehospital.com</p>
+          <p className="lg:text-base text-xs">farooque.reactjs@gmail.com</p>
         </div>
         <div className="h-6 w-[0.5px] bg-white" />
         <div className="text-white flex flex-row items-center gap-2">
           <BiSolidPhoneCall className="text-2xl" />
-          <p className="lg:text-base text-xs">08034517847</p>
+          <p className="lg:text-base text-xs">+91 7004624454</p>
         </div>
       </div>
 
